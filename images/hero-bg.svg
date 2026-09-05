@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f766e"/>
+      <stop offset="100%" stop-color="#0891b2"/>
+    </linearGradient>
+  </defs>
+  <rect width="1920" height="1080" fill="url(#g)"/>
+  <circle cx="1536" cy="216" r="129.6" fill="rgba(255,255,255,0.15)"/>
+  <circle cx="288" cy="810" r="194.4" fill="rgba(255,255,255,0.1)"/>
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="white" font-family="Poppins, Arial, sans-serif" font-size="86.4" font-weight="700">Wanderlust</text>
+</svg>
