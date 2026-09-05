@@ -1,0 +1,14 @@
+{
+  "name": "travel-website",
+  "version": "1.0.0",
+  "description": "Wanderlust — Interactive travel website with HTML, CSS, Bootstrap",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.0"
+  }
+}
